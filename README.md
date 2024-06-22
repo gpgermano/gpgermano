@@ -1,12 +1,9 @@
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador pitermb">
-
 <h3> :man: &nbsp;Sobre mim</h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **ANALISE E DESENVOLVIMENTO DE SISTEMAS**.
+- 🎓 &nbsp; **ANALISE E DESENVOLVIMENTO DE SISTEMAS**.
 - 💼 &nbsp; Atualmente atuando como **QA DESKTOP**
-- 🌱 &nbsp; Aprendendo mais a cada dia sobre <br/> **PHP/LARAVEL/JAVASCRIPT**.
+- 🌱 &nbsp; <br/> **PHP/LARAVEL/JAVASCRIPT/PYTHON**.
 
 <h3> :rocket: &nbsp;Minhas tecnologias de estudo e desenvolvimento:</h3>
 
