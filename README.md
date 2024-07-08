@@ -47,6 +47,6 @@
   <a href="mailto:guilhermepgermano@outlook.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:melobruner@gmail.com" /></a>
 
-  <a href="https://api.whatsapp.com/send?phone=5547992422002" alt="WhatsApp">
+  <a href="https://api.whatsapp.com/send?phone=5547992493265" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5547992493265"/></a>
 </p>  
