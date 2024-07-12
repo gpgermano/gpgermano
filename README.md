@@ -14,7 +14,7 @@
   ![PHP](https://img.shields.io/badge/php-333333?style=flat&logo=PHP)
   ![Laravel](https://img.shields.io/badge/laravel-333333?style=flat&logo=laravel)
   ![Delphi](https://img.shields.io/badge/Delphi-333333?style=flat&logo=delphi)
-
+  ![Mysql](https://img.shields.io/badge/Mysql-333333?style=flat&logo=Mysql)
    
 **Tecnologias de Testes**
   
@@ -22,11 +22,13 @@
    
 **Ferramentas de Utilidades e Infraestrutura**
 
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
 **Ferramentas de Desenvolvimento**
 
+  ![Wordpress](https://img.shields.io/badge/-Wordpress-333333?style=flat&logo=wordpress&logoColor=007ACC)
   ![linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux&logoColor=007ACC)
   ![VSCode](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
