@@ -8,7 +8,10 @@
 <h3> :rocket: &nbsp;Minhas tecnologias de estudo e desenvolvimento:</h3>
 
 **Tecnologias de Aplicação e Dados**
-  
+
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=Bootstrap)
+  ![CSS3](https://img.shields.io/badge/-Css3-333333?style=flat&logo=Css3)
+  ![HTML5](https://img.shields.io/badge/-Html5-333333?style=flat&logo=Html5)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python)
   ![PHP](https://img.shields.io/badge/php-333333?style=flat&logo=PHP)
