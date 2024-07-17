@@ -1,7 +1,7 @@
 <h3> :man: &nbsp;Sobre mim</h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; **ANALISE E DESENVOLVIMENTO DE SISTEMAS**.
+- 🎓 &nbsp; **ANÁLISE E DESENVOLVIMENTO DE SISTEMAS**.
 - 💼 &nbsp; Atualmente atuando como **QA DESKTOP**
 - 🌱 &nbsp; **DELPHI/PHP/LARAVEL/JAVASCRIPT/PYTHON**.
 
