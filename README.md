@@ -2,7 +2,7 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; **ANÁLISE E DESENVOLVIMENTO DE SISTEMAS**.
-- 💼 &nbsp; Atualmente atuando como **QA DESKTOP**
+- 💼 &nbsp; Atualmente atuando como **DEV FULL SATCK**
 - 🌱 &nbsp; **DELPHI/PHP/LARAVEL/JAVASCRIPT/PYTHON**.
 
 <h3> :rocket: &nbsp;Minhas tecnologias de estudo e desenvolvimento:</h3>
